@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI-driven automation for oil and gas reservoir engineering workflows
 - 🌱 I’m currently learning advanced machine learning for time series forecasting and reservoir simulation proxies
 - 💞️ I’m looking to collaborate on AI tools for history matching, production forecasting, and real-time optimization  
-- 📫 How to reach me [...](https://www.linkedin.com/in/simrandhingra1/)
+- 📫 How to reach me [Click here](https://www.linkedin.com/in/simrandhingra1/)
 - 😄 Pronouns: she/her
 
 
